@@ -1,7 +1,7 @@
 # pofda-mywork
 by Monika Dabrowska
 
- I study at [ATU] (https://www.atu.ie/)
+ I study at [ATU](https://www.atu.ie/)
 
  This repository is for Principles of Data Analytics module. 
 
