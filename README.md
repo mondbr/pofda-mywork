@@ -1,5 +1,5 @@
 # pofda-mywork
-***by Monika Dabrowska
+by Monika Dabrowska
 
  I study at [ATU] (https://www.atu.ie/)
 
