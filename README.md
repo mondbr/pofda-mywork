@@ -1,4 +1,4 @@
-# pofda-mywork
+# Principles of Data Analytics
 by Monika Dabrowska
 
  I study at [ATU](https://www.atu.ie/)
