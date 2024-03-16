@@ -1,7 +1,7 @@
 # Principles of Data Analytics
 by Monika Dabrowska
 
- I study at [ATU](https://www.atu.ie/)
+ I am an [ATU](https://www.atu.ie/) student. 
 
  This repository is for Principles of Data Analytics module. 
 
