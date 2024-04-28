@@ -1,22 +1,22 @@
 # Principles of Data Analytics
 by Monika Dabrowska
 
-This repository is for assignment project for  Principles of Data Analytics module on Higher Diploma in Data Analytics course from [ATU](https://www.atu.ie/) in Summer 2023/24. 
+This repository is for the assignment project for the Principles of Data Analytics module in the Higher Diploma in Data Analytics course at [ATU](https://www.atu.ie/) at summer semester 2023/24. 
 
-The purpose of the assessment is to ensure students can demonstrate the following:
+The assessment aims to ensure students can demonstrate the following:
  
-- Source and investigate sets of data.
-- Programmatically explore and visualize data.
-- Apply basic mathematical data analysis techniques to data sets. 
-- Model real-world problems for analysis by computer.
-- Provide evidence in a decision-making process using a data set.
-- Appreciate the limitations of graphical representations in data intensive workflows.
+- Sourcing and investigating data sets. 
+- Programmatically exploring and visualizing data.
+- Applying basic mathematical data analysis techniques to data sets.
+- Modeling real-world problems for computer analysis.
+- Providing evidence in decision-making processes using data sets.
+- Recognizing the limitations of graphical representations in data-intensive workflows.
 
 ## Assessment Overview 
 
 The assessment consists of three parts: tasks, a project, and a presentation component, all submitted in one Jupyter notebook on this GitHub repository. 
 
-It centers around the Palmer Penguins dataset, which we were discussing during the module.
+It is focusing on the Palmer Penguins dataset, which we were discussing during the module.
  
 The goal is to create a portfolio for future job applications, where presentation matters to employers.
 
@@ -36,8 +36,9 @@ You can open the `penguins.ipynb` notebook in [Google Collab](https://colab.rese
 
 ## About this project
 
-The Palmer Penguins dataset is a very popular dataset in data analytics particularly for educational purposes. It is a collection of data about penguins, including various measurements and characteristics such as species, bill length, bill depth, flipper length, and body mass. 
-This project is about:
+The Palmer Penguins dataset is widely used in data analytics particularly for educational purposes. It is a collection of data about penguins, including various measurements and characteristics such as species, bill length, bill depth, flipper length, and body mass. 
+
+This project involves:
 
 1. Creating a repository with appropriate elements,
 2. Giving an overview of the of the data set and the variables it contains,
@@ -48,24 +49,24 @@ This project is about:
 
 ## Get Started
 
-To get started with Jupyter Notebook files you need Python installed on your machine. To do that, you can use the following: 
+To begin with Jupyter Notebook files you need Python installed on your machine. To do that, you can use the following: 
 
 **Anaconda** \
-https://www.anaconda.com/download \
+[Download](https://www.anaconda.com/download) \
 The easiest way to install Python and the necessary packages for this course.
 
 **Visual Studio Code** \
-https://code.visualstudio.com \
+[Download](https://code.visualstudio.com) \
 The editor we will use to create Python scripts and Jupyter notebooks. 
 
 **Git** \
-https://git-scm.com \
+[Download](https://git-scm.com) \
 The software we will use to track our progress.
 
 
 ## Use of this project 
 
-This project is mainly created for the assessment and learning purposes, however it can be used for further analysis or educational purposes.  
+This project is mainly created for the assessment and learning purposes, but it can be used for further analysis or educational purposes.  
 
 
 ## Table of contents:
@@ -99,7 +100,7 @@ This project is mainly created for the assessment and learning purposes, however
 
 The penguins data collected through field observations and scientific studies was downloaded from [Pamler Penguins Dataset Online](https://allisonhorst.github.io/palmerpenguins/) and loaded to the Jupyter Notebook in this repository. 
 
-I was working on this project using Python programming and libraries such as pandas, NumPy, matplotlib, and seaborn for data analysis and visualization. I was also reffering to multiple resourses available online. 
+I worked on this project using Python programming and libraries such as pandas, NumPy, matplotlib, and seaborn for data analysis and visualization. I also reffered to multiple resourses available online. 
  
 ## Results:
  
@@ -107,14 +108,14 @@ I was working on this project using Python programming and libraries such as pan
  
 ## References:
 
-* Data available on: https://allisonhorst.github.io/palmerpenguins/
+* Data available at: https://allisonhorst.github.io/palmerpenguins/
 * Similar analysis and interpretations: 
     * Bryan Thao on [www.coursehero.com](https://www.coursehero.com/file/197982616/Bryan-Thao-BIO100-Week7-lab-student-SP22-1docx/)
     * INRIA on [inria.github.io](https://inria.github.io/scikit-learn-mooc/python_scripts/trees_dataset.html])
 
 * My knowledge mine:
  * Principles of Data Analytics module by Ian McLoughlin on Higher Diploma in Data Analytics course from ATU.
- * www.w3schools
+ * w3schools
  * pandas.pydata.org
  * matplotlib.org
  * geeksforgeeks.org
