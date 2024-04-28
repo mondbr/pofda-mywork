@@ -42,7 +42,7 @@ This project involves:
 
 1. Creating a repository with appropriate elements,
 2. Giving an overview of the of the data set and the variables it contains,
-3. Analysing the types of variables that should be used to model the variables in the data set
+3. Analysing the types of variables that should be used to model the variables in the data set,
 4. Visualisng data by creating varoius types of plots,
 5. Analysing two variables from the data set and provide an analysis of how correlated they are.
 
@@ -114,13 +114,13 @@ I worked on this project using Python programming and libraries such as pandas, 
     * INRIA on [inria.github.io](https://inria.github.io/scikit-learn-mooc/python_scripts/trees_dataset.html])
 
 * My knowledge mine:
- * Principles of Data Analytics module by Ian McLoughlin on Higher Diploma in Data Analytics course from ATU.
- * w3schools
- * pandas.pydata.org
- * matplotlib.org
- * geeksforgeeks.org
- * realpython.com
- * chat.openai.com
+    * Principles of Data Analytics module by Ian McLoughlin on Higher Diploma in Data Analytics course from ATU.
+    * w3schools
+    * pandas.pydata.org
+    * matplotlib.org
+    * geeksforgeeks.org
+    * realpython.com
+    * chat.openai.com
 
 **Disclaimer:** I used ChatGPT to support me with code refferencing/commenting and enhance the content of this notebook. The notebook is mainly my own work and research, as ChatGPT sometimes suggest clearly incorrect ideas and make mistakes. In any case I had to re-work the code or text it generated to meet my own needs.
 
