@@ -32,7 +32,30 @@ by Monika Dabrowska
 
  ## Indroduction (about this project)
 
- 
+ ## Get Started
+
+    To get started with Jupyter Notebook files you need Python installed on your machine. To do that, you can use the following: 
+
+    **Anaconda**
+
+    https://www.anaconda.com/download
+
+    *The easiest way to install Python and the necessary packages for this course.*
+
+
+    **Visual Studio Code**
+
+    https://code.visualstudio.com/
+
+    *The editor we will use to create Python scripts and Jupyter notebooks.*
+
+
+    **Git**
+
+    https://git-scm.com/
+
+    *The software we will use to track our progress.*
+
  ## Use of this project 
 
 
@@ -59,10 +82,9 @@ by Monika Dabrowska
  ## Contributes, referenes
 
 
- ## Author 
- About me: 
- 
- As I don't have any prevoius programming experience nor knowledge of basing coding, I am using multiple sources and references to help me to complete the assignment.
+ ## About me: 
+
+ My name is Monika Dabrowska and I am an [ATU](https://www.atu.ie/) student of first semester of Programming and Scripting module on Higher Diploma in Data Analytics course in Summer 2023/24. I don't have any prevoius programming experience nor knowledge of basing coding, so I am using multiple sources and references to help me to complete the assignments. 
 
 
 ---
