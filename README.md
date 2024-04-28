@@ -93,7 +93,7 @@ This project is mainly created for the assessment and learning purposes, but it 
 
 ## Objectives:
 
-* Find and explore pattern and correlation in penguin attributes between numerical variables such as body mass, flipper length, bill depth, and/or bill length.
+Find and explore pattern and correlation in penguin attributes between numerical variables such as body mass, flipper length, bill depth, and/or bill length.
 
 
 ## Data Collection and Methodology:
