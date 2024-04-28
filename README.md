@@ -22,12 +22,20 @@ by Monika Dabrowska
  
  The goal is to create a portfolio for future job applications, where presentation matters to employers.
 
+I used [openincolab.com](https://openincolab.com/) to generate the following clickable link. 
+You can open the `penguins.ipynb` notebook in [Google Collab](https://colab.research.google.com/) by clicking on the below badge. 
+
+<a target="_blank" href="https://colab.research.google.com/github/mondbr/pofda-mywork/blob/main/penguins.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 
  <div style="text-align:center">
  <img src="https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png" width=50% height=50%>
  <div style="text-align:center"><b>Artwork by @allison_horst</b>
  </div>
+
+
 
 
  ## Indroduction (about this project)
@@ -39,31 +47,23 @@ To get started with Jupyter Notebook files you need Python installed on your mac
 **Anaconda**
 
 https://www.anaconda.com/download
-
-*The easiest way to install Python and the necessary packages for this course.*
+The easiest way to install Python and the necessary packages for this course.
 ---
 
 **Visual Studio Code**
 
 https://code.visualstudio.com/
-
-*The editor we will use to create Python scripts and Jupyter notebooks.*
+The editor we will use to create Python scripts and Jupyter notebooks.
 ---
 
  **Git**
 
 https://git-scm.com/
-
-*The software we will use to track our progress.*
+The software we will use to track our progress.
 ---
  ## Use of this project 
 
-I used [openincolab.com](https://openincolab.com/) to generate the following clickable link. 
-It opens `penguins.ipynb` notebook in [Google Collab](https://colab.research.google.com/)
 
-<a target="_blank" href="https://colab.research.google.com/github/mondbr/pofda-mywork/blob/main/penguins.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
 
  ## Table of contents:
 
