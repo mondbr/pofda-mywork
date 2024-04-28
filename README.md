@@ -34,40 +34,61 @@ You can open the `penguins.ipynb` notebook in [Google Collab](https://colab.rese
 </div>
 
 
+## About this project
 
+The Palmer Penguins dataset is a very popular dataset in data analytics particularly for educational purposes. It is a collection of data about penguins, including various measurements and characteristics such as species, bill length, bill depth, flipper length, and body mass. 
+This project is about:
 
-## Indroduction (about this project)
+1. Creating a repository with appropriate elements,
+2. Giving an overview of the of the data set and the variables it contains,
+3. Analysing the types of variables that should be used to model the variables in the data set
+4. Visualisng data by creating varoius types of plots
+5. Analysing two variables from the data set and provide an analysis of how correlated they are.
+
 
 ## Get Started
 
 To get started with Jupyter Notebook files you need Python installed on your machine. To do that, you can use the following: 
----
-**Anaconda**
 
+**Anaconda**
 https://www.anaconda.com/download
 The easiest way to install Python and the necessary packages for this course.
----
 
 **Visual Studio Code**
-
 https://code.visualstudio.com/
 The editor we will use to create Python scripts and Jupyter notebooks.
----
 
 **Git**
-
 https://git-scm.com/
 The software we will use to track our progress.
----
+
+
 ## Use of this project 
 
+This project is mainly created for the assessment and learning purposes, however it can be used for further analysis or educational purposes.  
 
 
 ## Table of contents:
 
 #### [Open here - Analysis of Palmer Penguins data set - *penguins.ipynb*](https://github.com/mondbr/pofda-mywork/blob/main/penguins.ipynb)
 
-
+* Task 01 - Introduction 
+* Task 02 - Imports and Data Exploration
+    * Imports
+    * Load data
+    * Inspect data
+* Task 03 - Types of variables
+* Task 04 Data visualisation (Let's visualise some data!)
+    * Libraries
+    * Bar charts and Histograms
+* Project component (Even more analysis!)
+    * Starting with Bill Lenght (bill_length_mm) and Bill Depth (bill_depth_mm)
+    * Checking Flipper Lenght (flipper_length_mm) and Body mass (body_mass_g)
+    * Cleaning data and adding best fit line
+    * Measure the correlation
+    * Results
+        * Some further interesting visualisations
+ * References / Library
 
 ## Objectives:
 
