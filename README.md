@@ -35,29 +35,35 @@ by Monika Dabrowska
  ## Get Started
 
 To get started with Jupyter Notebook files you need Python installed on your machine. To do that, you can use the following: 
-
+---
 **Anaconda**
 
 https://www.anaconda.com/download
 
 *The easiest way to install Python and the necessary packages for this course.*
-
+---
 
 **Visual Studio Code**
 
 https://code.visualstudio.com/
 
 *The editor we will use to create Python scripts and Jupyter notebooks.*
-
+---
 
  **Git**
 
 https://git-scm.com/
 
 *The software we will use to track our progress.*
-
+---
  ## Use of this project 
 
+I used [openincolab.com](https://openincolab.com/) to generate the following clickable link. 
+It opens `penguins.ipynb` notebook in [Google Collab](https://colab.research.google.com/)
+
+<a target="_blank" href="https://colab.research.google.com/github/mondbr/pofda-mywork/blob/main/penguins.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
  ## Table of contents:
 
@@ -76,10 +82,8 @@ https://git-scm.com/
  
  ## References:
 
+
  ## Where the users can get help
-
-
- ## Contributes, referenes
 
 
  ## About me: 
