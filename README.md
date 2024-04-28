@@ -1,7 +1,7 @@
 # Principles of Data Analytics
 by Monika Dabrowska
 
-This repository is for the assignment project for the Principles of Data Analytics module in the Higher Diploma in Data Analytics course at [ATU](https://www.atu.ie/) at summer semester 2023/24. 
+This repository is for the assignment project for the Principles of Data Analytics module in the Higher Diploma in Data Analytics course at ATU in the summer semester of 2023/24. 
 
 The assessment aims to ensure students can demonstrate the following:
  
