@@ -93,7 +93,7 @@ This project is mainly created for the assessment and learning purposes, but it 
 
 ## Objectives:
 
-Find and explore pattern and correlation in penguin attributes between numerical variables such as body mass, flipper length, bill depth, and/or bill length.
+The purpose of this project is to find, work and explore pattern and correlation in penguin attributes between numerical variables such as body mass, flipper length, bill depth, and/or bill length.
 
 
 ## Data Collection and Methodology:
@@ -125,7 +125,7 @@ I worked on this project using Python programming and libraries such as pandas, 
 
 ## About me: 
 
-My name is Monika Dabrowska and I am an [ATU](https://www.atu.ie/) student of first semester of Programming and Scripting module of the Programming and Scripting module on the Higher Diploma in Data Analytics course during Summer 2023/24.
+My name is Monika Dabrowska and I am an [ATU](https://www.atu.ie/) student of first semester of the Programming and Scripting module on the Higher Diploma in Data Analytics course during Summer 2023/24.
 
 I don't have any prevoius programming experience nor knowledge of basing coding, so I am using multiple sources and references to help me to complete the assignments. 
 
