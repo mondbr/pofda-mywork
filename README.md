@@ -42,7 +42,7 @@ This project is about:
 1. Creating a repository with appropriate elements,
 2. Giving an overview of the of the data set and the variables it contains,
 3. Analysing the types of variables that should be used to model the variables in the data set
-4. Visualisng data by creating varoius types of plots
+4. Visualisng data by creating varoius types of plots,
 5. Analysing two variables from the data set and provide an analysis of how correlated they are.
 
 
@@ -50,16 +50,16 @@ This project is about:
 
 To get started with Jupyter Notebook files you need Python installed on your machine. To do that, you can use the following: 
 
-**Anaconda**
-https://www.anaconda.com/download
+**Anaconda** \
+https://www.anaconda.com/download \
 The easiest way to install Python and the necessary packages for this course.
 
-**Visual Studio Code**
-https://code.visualstudio.com/
-The editor we will use to create Python scripts and Jupyter notebooks.
+**Visual Studio Code** \
+https://code.visualstudio.com \
+The editor we will use to create Python scripts and Jupyter notebooks. 
 
-**Git**
-https://git-scm.com/
+**Git** \
+https://git-scm.com \
 The software we will use to track our progress.
 
 
@@ -82,8 +82,8 @@ This project is mainly created for the assessment and learning purposes, however
     * Libraries
     * Bar charts and Histograms
 * Project component (Even more analysis!)
-    * Starting with Bill Lenght (bill_length_mm) and Bill Depth (bill_depth_mm)
-    * Checking Flipper Lenght (flipper_length_mm) and Body mass (body_mass_g)
+    * Starting with Bill Lenght and Bill Depth 
+    * Checking Flipper Lenght and Body mass
     * Cleaning data and adding best fit line
     * Measure the correlation
     * Results
@@ -92,26 +92,48 @@ This project is mainly created for the assessment and learning purposes, however
 
 ## Objectives:
 
+* Find and explore pattern and correlation in penguin attributes between numerical variables such as body mass, flipper length, bill depth, and/or bill length.
+
 
 ## Data Collection and Methodology:
 
+The penguins data collected through field observations and scientific studies was downloaded from [Pamler Penguins Dataset Online](https://allisonhorst.github.io/palmerpenguins/) and loaded to the Jupyter Notebook in this repository. 
+
+I was working on this project using Python programming and libraries such as pandas, NumPy, matplotlib, and seaborn for data analysis and visualization. I was also reffering to multiple resourses available online. 
  
 ## Results:
  
+ I observed strong positive correlation (r = 0.87) between body mass and flipper length, suggesting that larger penguins tend to have longer flippers.
  
 ## References:
 
+* Data available on: https://allisonhorst.github.io/palmerpenguins/
+* Similar analysis and interpretations: 
+    * Bryan Thao on [www.coursehero.com](https://www.coursehero.com/file/197982616/Bryan-Thao-BIO100-Week7-lab-student-SP22-1docx/)
+    * INRIA on [inria.github.io](https://inria.github.io/scikit-learn-mooc/python_scripts/trees_dataset.html])
 
-## Where the users can get help
+* My knowledge mine:
+ * Principles of Data Analytics module by Ian McLoughlin on Higher Diploma in Data Analytics course from ATU.
+ * www.w3schools
+ * pandas.pydata.org
+ * matplotlib.org
+ * geeksforgeeks.org
+ * realpython.com
+ * chat.openai.com
 
+**Disclaimer:** I used ChatGPT to support me with code refferencing/commenting and enhance the content of this notebook. The notebook is mainly my own work and research, as ChatGPT sometimes suggest clearly incorrect ideas and make mistakes. In any case I had to re-work the code or text it generated to meet my own needs.
 
 ## About me: 
 
-My name is Monika Dabrowska and I am an [ATU](https://www.atu.ie/) student of first semester of Programming and Scripting module on Higher Diploma in Data Analytics course in Summer 2023/24. I don't have any prevoius programming experience nor knowledge of basing coding, so I am using multiple sources and references to help me to complete the assignments. 
+My name is Monika Dabrowska and I am an [ATU](https://www.atu.ie/) student of first semester of Programming and Scripting module on Higher Diploma in Data Analytics course in Summer 2023/24. 
 
+I don't have any prevoius programming experience nor knowledge of basing coding, so I am using multiple sources and references to help me to complete the assignments. 
+
+If you wish to contact me directly, please email me @ mondbr133@gmail.com
 
 ---
 
 ### Technologies
 
 * Visual Studio Code Version: 1.88.1
+* Pyton 3.11.5
