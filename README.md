@@ -135,5 +135,5 @@ If you wish to contact me directly, please email me @ mondbr133@gmail.com
 
 ### Technologies
 
-* Visual Studio Code Version: 1.88.1
-* Pyton 3.11.5
+* Visual Studio Code version: 1.88.1
+* Python version 3.11.5
