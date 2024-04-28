@@ -34,27 +34,27 @@ by Monika Dabrowska
 
  ## Get Started
 
-    To get started with Jupyter Notebook files you need Python installed on your machine. To do that, you can use the following: 
+To get started with Jupyter Notebook files you need Python installed on your machine. To do that, you can use the following: 
 
-    **Anaconda**
+**Anaconda**
 
-    https://www.anaconda.com/download
+https://www.anaconda.com/download
 
-    *The easiest way to install Python and the necessary packages for this course.*
-
-
-    **Visual Studio Code**
-
-    https://code.visualstudio.com/
-
-    *The editor we will use to create Python scripts and Jupyter notebooks.*
+*The easiest way to install Python and the necessary packages for this course.*
 
 
-    **Git**
+**Visual Studio Code**
 
-    https://git-scm.com/
+https://code.visualstudio.com/
 
-    *The software we will use to track our progress.*
+*The editor we will use to create Python scripts and Jupyter notebooks.*
+
+
+ **Git**
+
+https://git-scm.com/
+
+*The software we will use to track our progress.*
 
  ## Use of this project 
 
