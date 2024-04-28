@@ -122,7 +122,6 @@ I worked on this project using Python programming and libraries such as pandas, 
     * realpython.com
     * chat.openai.com
 
-**Disclaimer:** I used ChatGPT to support me with code refferencing/commenting and enhance the content of this notebook. The notebook is mainly my own work and research, as ChatGPT sometimes suggest clearly incorrect ideas and make mistakes. In any case I had to re-work the code or text it generated to meet my own needs.
 
 ## About me: 
 
