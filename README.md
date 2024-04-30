@@ -79,7 +79,7 @@ This project is mainly created for the assessment and learning purposes, but it 
     * Load data
     * Inspect data
 * Task 03 - Types of variables
-* Task 04 Data visualisation (Let's visualise some data!)
+* Task 04 - Data visualisation (Let's visualise some data!)
     * Libraries
     * Bar charts and Histograms
 * Project component (Even more analysis!)
